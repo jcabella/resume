@@ -1,0 +1,39 @@
+{
+  "basics": {
+    "name": "John Paul Abella",
+    "label": "Project manager",
+    "picture": "https:\/\/lh3.googleusercontent.com\/-3BSu08K748s\/AAAAAAAAAAI\/AAAAAAAABbo\/SPEEdL9eByg\/photo.jpg",
+    "email": "rex.cruz@flightdigitalmedia.com",
+    "phone": "+639330046987"
+  },
+  "education": [
+    {
+    "institution": "University of the Philippines Information Technology Training Center",
+    "course": "Information Technology",
+    "studyType": "Post Graduate",
+    "startDate": "2009",
+    "endDate": "2010"
+    }
+  ],
+  "work": [
+  {
+      "company": "Rogomi, Inc.",
+    "position": "Project Manager",
+    "startDate": "2013-07-01",
+    "summary": "Managing projects from initiation to closure.\n\nSupervising the quality assurance team, evaluate their performance and initiate disciplinary actions when needed.\n\nUnderstanding and communicating client requirements to appropriate team members.\n\nEstablishing scope of work and estimating amount of time required to deliver commitments.\n\nEstablishing and assigning clear ownership of tasks, delegating work assignments and setting expectations.\n\nCollaborating with design and development team in ensuring that the company’s products & services commitments to customers are met in a timely manner and in a quality consistent with the standards considered acceptable by the company.\n\nPlanning, coordinating and facilitating delivery of agreed-upon project milestone deliverables.\n\nFacilitating productivity by ensuring that the teams involved have the necessary tools to succeed in\ntheir tasks.\n\nTracking progress and reviewing project tasks to ensure that deadlines are met.\n\nConducting daily scrum meetings to ensure that sprint and release commitments are being upheld and to identify possible roadblocks.\n\nMotivating team members as well as protecting them from external distractions.\n\nAssessing project issues and identifying solutions to consistently meet stakeholder goals.\n\nProactively communicating and providing timely feedback regarding project status and issues to\nmanagement.\n\nConducting regular meetings with stakeholders to keep needs and requirements continuously in review.\n\nAssisting in business development and marketing activities.\n\nConducting training in mobile development, business analysis, or project management."   
+    },
+    {
+      "company": "Rogomi, Inc.",
+    "position": "Senior Business Analyst",
+    "startDate": "2013-07-01",
+    "summary": "Validating project objectives, ensuring that functionalities have been aptly understood in order to cascade information to relevant team members.\n\nManaging the requirements process by utilizing tools such as use cases, flowcharts, and sequence diagrams in order to understand the project\u2019s flow and their corresponding features associated to said flow.\n\nManaging, validating, and scheduling relevant changes to the project such as change requests in order to avoid scope creep and keep the project on schedule.\n\nEnsuring completion criteria for the project have been accomplished by creating success criteria documents and cross-checking with said document as well as the business requirements document, that all initial and succeeding planned functionalities have been implemented correctly."    
+    },
+    {
+    "company": "Pointwest Technologies",
+      "position": "Mobile Applications Developer",
+      "startDate": "2010-06-01",
+      "summary": "Developing iOS Applications as well as assisting in leading the iOS Mobile Application Development Team in order to produce enterprise and consumer apps that would delight as well as enrich people's lives.",
+      "endDate": "2013-07-01"
+    }    
+  ]
+}
